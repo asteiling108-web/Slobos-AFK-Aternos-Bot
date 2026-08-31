@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LPMC.aternos.me:20078",
+    "ip": "LPMC.aternos.me",
     "port": 20078,
     "version": "",
     "try-creative": false
